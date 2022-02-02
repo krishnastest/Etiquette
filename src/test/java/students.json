@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Aston",
+      "age": 18,
+      "gender": "male"
+    },
+    {
+      "name": "Martin",
+      "age": 19,
+      "gender": "male"
+    },
+    {
+      "name": "Rolls",
+      "age": 20,
+      "gender": "male"
+    },
+    {
+      "name": "Royce",
+      "age": 20,
+      "gender": "female"
+    },
+    {
+      "name": "Panther",
+      "age": 21,
+      "gender": "female"
+    }
+  ]
+}
