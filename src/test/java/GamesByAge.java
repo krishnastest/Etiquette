@@ -27,9 +27,24 @@ public class GamesByAge {
             "[{ \"color\" : \"Black\", \"type\" : \"BMW\" }, { \"color\" : \"Red\", \"type\" : \"FIAT\" }]";
     List<Car> listCar = objectMapper.readValue(jsonCarArray, new TypeReference<List<Car>>(){});
 
+    for(int i=0; i<arraysize; i++){
+        if(array[i]==18 or array[i]<=20)
+            add to new array
+    }
 
+    for(int i=0; i<arraysize; i++){
+        if(array[i]==21 or array[i]<=23)
+        add to new array
+    }
 
+    for(int i=0; i<arraysize; i++){
+        if(array[i]==24 or array[i]<=25)
+        add to new array
+    }
 
+    sout(print array)
+
+        // Need to assert but what should be the assertion
 
 }
 
