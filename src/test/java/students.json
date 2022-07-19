@@ -1,29 +1,72 @@
 {
-  "students": [
-    {
-      "name": "Aston",
-      "age": 18,
-      "gender": "male"
-    },
+  "allStudents": [
     {
       "name": "Martin",
-      "age": 19,
-      "gender": "male"
+      "age": 18
     },
     {
-      "name": "Rolls",
-      "age": 20,
-      "gender": "male"
+      "name": "Sahil",
+      "age": 21
     },
     {
-      "name": "Royce",
-      "age": 20,
-      "gender": "female"
+      "name": "Krishna",
+      "age": 22
     },
     {
-      "name": "Panther",
-      "age": 21,
-      "gender": "female"
+      "name": "Aron",
+      "age": 25
+    },
+    {
+      "name": "Lelu",
+      "age": 24
+    },
+    {
+      "name": "Daria",
+      "age": 18
+    },
+    {
+      "name": "Max",
+      "age": 19
+    },
+    {
+      "name": "Simon",
+      "age": 19
+    },
+    {
+      "name": "Sascha",
+      "age": 18
+    },
+    {
+      "name": "Vincent",
+      "age": 23
+    },
+    {
+      "name": "Roli",
+      "age": 22
+    },
+    {
+      "name": "Herman",
+      "age": 20
+    },
+    {
+      "name": "Jeremy",
+      "age": 23
+    },
+    {
+      "name": "Luna",
+      "age": 24
+    },
+    {
+      "name": "Jessi",
+      "age": 26
+    },
+    {
+      "name": "Zack",
+      "age": 21
+    },
+    {
+      "name": "Alex",
+      "age": 18
     }
   ]
 }

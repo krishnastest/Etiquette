@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 public class FruitsTests {
 
+
     @Test
     public void shouldSegregateApples(){
         //1. Arrange
